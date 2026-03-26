@@ -117,7 +117,7 @@ Diabetes_Prediction_using_ML.ipynb
 ✔ Feature Scaling  
 ✔ Classification Modeling  
 ✔ Model Evaluation  
-✔ End-to-End ML Workflow  
+✔ End-to-End ML Workflows  
 
 ---
 
